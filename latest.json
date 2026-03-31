@@ -1,0 +1,13 @@
+{
+  "latest_version": "1.1.0",
+  "download_url": ""
+}
+```
+
+We're setting it to `1.1.0` — your current version — so no update banner appears until you actually release v2.0.
+
+4. Click **Commit changes** → **Commit directly to the main branch** → **Commit changes**
+
+Once that's done, click on the `latest.json` file in the repository, then click the **Raw** button. Copy the URL from your browser address bar and paste it here — it should look something like:
+```
+https://raw.githubusercontent.com/victrondave81-art/workshop-pro-releases/main/latest.json
